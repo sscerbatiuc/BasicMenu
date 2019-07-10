@@ -11,7 +11,7 @@ public class App {
 
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
-        System.out.println("Hello, this is employee manager. Choose option:");
+        System.out.println("\nHello, this is employee manager. Choose option:");
         
         short option, position;
         EmployeeService empService;
